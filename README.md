@@ -1,6 +1,8 @@
 # Airbnb-EDA-
 
-#Introduction
+![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/0*qR74yETomQEKsi3d.jpg)
+
+# Introduction
 
 Welcome to this project called “Airbnb EDA” where I will endeavour to articulate my finding about the company with the help of some visualisations and insights which will be directed towards improvements and furtherance of the company overall. I wont make this article very verbose and will keep it as terse as possible. Happy reading!
 
@@ -9,19 +11,19 @@ The purpose is simple, which is to help Airbnb notice some aspects about their b
 
 It would be reckless on my part to assume that you are already aware about the company and some of you would not be, in which case I’ll give a brief about the company and its modus operandi.
 
-#Seeking optimal locations:
+# Seeking optimal locations:
 
 ![alt text](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AByRHH9MtyiFsE-1407LxQ.png)
 
-#What would be a sweet spot:
+# What would be a sweet spot:
 
 It seems that Metro and City Centre distance, both are an indicative of attractiveness of a place. The is case the best location in case Airbnb want to expand its operations would be an area which is at a distance of 2 Km or less from the metro station and 5 km or less from the city centre.
 
-#Answering the why?
+# Answering the why?
 
 A simple reason for an increased level of attractiveness in these regions can be the convenience that accompanies such areas. I am are is closer to the metro station is indicated ease of travelling, similarly a city centre nearby hints at increased amenities such as shopping malls and supermarkets.
 
-#What separates the hosts from the super hosts?
+# What separates the hosts from the super hosts?
 
 ![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*qDGo2nJSXw4DHU4DYZ6uSQ.png)
 
@@ -33,15 +35,15 @@ A simple reason for an increased level of attractiveness in these regions can be
 
 ![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*JShD50EnqRf61k_Whb08Mg.png)
 
-#Person capacity:
+# Person capacity:
 
 Super hosts generally provide a greater person capacity than normal hosts. I would recommend the hosts specially in areas like Barcelona, Amsterdam, Berlin and Paris to start increasing the person capacity as this would help them cater to single travelling customers as well as customers who travel in herd or with their families.
 
-#Quality of restaurants:
+# Quality of restaurants:
 
 Restaurant quality is another indicative that separates the hosts from the super hosts. Food is of paramount importance for customers no matter where they stay, good food can offset other limitations and can beget customer satisfaction in a way nothing else can. So I would recommend the hosts in these areas to focus on their quality of the restaurants as this can make all the difference in the world.
 
-#Conclusion
+# Conclusion
 
 ![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/0*wCRHoyMVJ1eduoWx.jpg)
 
